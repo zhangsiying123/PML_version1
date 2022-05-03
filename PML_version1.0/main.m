@@ -7,7 +7,7 @@ load('birds2.mat');
 n_fold = 5;
 [N, dim] = size(data);
 
-target_partial(targe t_partial == -1) = 0;
+target_partial(target_partial == -1) = 0;
 partial_labels = target_partial;
 target(target == -1) = 0;
 
