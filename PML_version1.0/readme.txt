@@ -9,4 +9,4 @@ rr is output of mean of five-fold validation, and rrstd is output of standard de
 result is result output in each validation.
 
 
-// if you have any question about this paper or this code, please contact zhao_shiyi@163.com.
+// if you have any question about this paper or this code, please contact zhao_shiyi@163.com
